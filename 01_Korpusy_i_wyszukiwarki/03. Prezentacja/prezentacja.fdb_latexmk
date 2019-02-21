@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1550455577 "prezentacja.tex" "prezentacja.pdf" "prezentacja" 1550455578
+["pdflatex"] 1550625461 "prezentacja.tex" "prezentacja.pdf" "prezentacja" 1550625462
   "/dev/null" 1550248955 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1543696176 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1543696176 3332 103109f5612ad95229751940c61aada0 ""
@@ -267,15 +267,15 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1548097258 2842348 edc1b8bc31b681518c3c925a1db894a8 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1548097253 7910428 9c60c776d0cf627f141925d57d4a8a01 ""
   "beamerthemesimple.sty" 1538573582 2646 24e14a4fd2d242b675089ba29fa98aa8 ""
-  "prezentacja.aux" 1550455578 2004 3521a4ee22955c6a86879ffabcbe11d9 ""
-  "prezentacja.nav" 1550455578 923 02772eacdfe77d67b79e45a640fd18ab ""
-  "prezentacja.out" 1550455578 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "prezentacja.tex" 1550455577 4315 f91c7f0629d04a08ddeef50cfb88aa85 ""
+  "prezentacja.aux" 1550625462 2004 3521a4ee22955c6a86879ffabcbe11d9 ""
+  "prezentacja.nav" 1550625462 923 02772eacdfe77d67b79e45a640fd18ab ""
+  "prezentacja.out" 1550625462 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "prezentacja.tex" 1550625459 4312 1168a2d8134a5b6f1d3480c5e50e2f6b ""
   (generated)
-  "prezentacja.aux"
-  "prezentacja.toc"
   "prezentacja.pdf"
   "prezentacja.snm"
-  "prezentacja.log"
   "prezentacja.nav"
+  "prezentacja.log"
+  "prezentacja.toc"
   "prezentacja.out"
+  "prezentacja.aux"
